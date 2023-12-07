@@ -2,6 +2,8 @@
 
 ## Övningar
 
+**OBS! På grund av en trolig bugg i Firebase CLI så funkar inte nedan för tillfället så skippa detta! Jag ska undersöka och återkomma.**
+
 Lägg upp ett valfritt projekt på Firebase så det blir åtkomligt via en URL.
 
 1. Ladda först ner Firebase CLI här (välj standalone binary): https://firebase.google.com/docs/cli?authuser=0&hl=en
